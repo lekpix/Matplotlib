@@ -38,9 +38,3 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 * Observations are included at the top of notebook.
 
-
-  
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
